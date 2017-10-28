@@ -1,0 +1,21 @@
+.overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, .5);
+    overflow: hidden;
+    width: 100%;
+    height: 0;
+    transition: .5s ease;
+  }
+  h2.page-heading:after {
+    border: 2px solid #f37208;
+    width: 50px;
+    content: '';
+    display: block;
+    margin: 20px auto;
+}
+h2.page-heading-mar:after{
+  margin: 8px 5px 0 3px;
+}

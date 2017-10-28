@@ -1,0 +1,36 @@
+.caption-absolute{
+    position: absolute;
+    left: 10%;
+    color: #fff;
+    top: 5%;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.caption-absolute-bot{
+    position: absolute;
+    bottom:10%;
+    color: #fff;
+    font-size:14px;
+    text-align: center;
+    width:90%;
+    font-weight:600;
+    left:5%
+}
+.thumbnail{
+    height:500px;
+    border: none;
+    z-index: 5;
+    margin:0;
+}
+.thumbnail>img {
+height:100%
+}
+.thumbnail:hover .overlay{
+        height: 100%;
+        overflow: hidden;
+     }
+     .thumbnail .caption {
+        font-size: 20px;
+        color: #fff;
+    }

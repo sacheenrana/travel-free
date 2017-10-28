@@ -1,0 +1,12 @@
+@import 'base/typography.css';
+@import 'base/helper.css';
+@import 'custom/global.css';
+@import 'custom/normalize.css';
+@import 'framework/bootstrap.min.css';
+@import 'pages/header.css';
+@import 'pages/hotel.css';
+@import 'pages/trip.css';
+@import 'pages/footer.css';
+@import 'media.css';
+@import 'framework/font-awesome/css/font-awesome.min.css';
+

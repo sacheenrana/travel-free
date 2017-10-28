@@ -1,0 +1,31 @@
+.hotel-box-border{
+    height: 100%;
+    width: 100%;
+    border: 5px solid #feb579;
+    position: absolute;
+    left: 10%;
+    top: 10%;
+ 
+}
+.hotel-desc{
+    height: 50%;
+    width: 50%;
+   
+    position: absolute;
+    left: 90%;
+    top: 55%;
+    padding:40px;
+    color:#fff8f5;
+    background-color: #fe841f;
+}
+.hotel-heading{
+    height: 20%;
+    width: 50%;
+    position: absolute;
+    left: 95%;
+    top: 25%;
+    padding:40px;
+    color:#4e4e4e;
+    text-transform: uppercase;
+   
+}

@@ -1,0 +1,62 @@
+@media (max-width: 830px) {
+    .navbar-right {
+        margin-right: 0px !important;
+    }
+    .navbar-header {
+        margin-left: 0px !important;
+    }
+   
+}
+
+@media (max-width: 1126px) {
+    .hotel-desc {
+        padding: 15px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+   
+}
+
+
+@media(max-width: 991px) {
+    .carousel-caption {
+        top: 60%;
+    }
+    .navbar-absolute-top, .navbar-absolute-bottom {
+        margin-left: 0;
+   margin-right: 0;
+       }
+       .carousal-caption-cm {
+        font-size: 30px;
+    }
+    .input-group.search-group {
+        width: 100%!important;
+    }
+    .hotel-heading {
+    display: none;
+    }
+    .hotel-desc {
+        height: 50%;
+        width: 100%;
+        position:relative ;
+        left:0 !important;
+        top:0;
+        padding: 40px;
+        color: #fff8f5;
+        background-color: #ccc;
+    }
+    .hotel-box-border{
+        display: none;
+
+    }
+    h2.page-heading-mar:after{
+        margin:20px auto;
+      }
+      .logos{
+          display: none;
+      }
+      .p-res-3{
+          padding:3%
+      }
+    
+}
